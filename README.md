@@ -1,16 +1,13 @@
-### Hi there 👋
+## hi there
 
-<!--
-**kegalo/kegalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on this page
 
-Here are some ideas to get you started:
+Come back another time and maybe it'll change
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> In the meantime, here are some facts
+
+* My email is in my profile
+* I try my best to respond to emails specifically meant for me
+* I really am not good at programming. Feel free to suggest things
+
+bye bye have a nice day
